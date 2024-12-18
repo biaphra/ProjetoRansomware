@@ -1,4 +1,9 @@
-# Ransomware Project
+<div align="center">
+  <img src="/capa-projeto.png" alt="Ransomware Project" width="80%">
+  
+  # 🎯 Ransomware Project
+  
+</div>
 
 Este é um projeto educacional de ransomware que demonstra conceitos básicos de criptografia.
 
@@ -51,4 +56,4 @@ python src/decryptor.py
 - Não execute em sistemas de produção
 
 ## Github Repository
-[https://github.com/biaphra/ProjetoRansomware](https://github.com/biaphra/ProjetoRansomware)
+[@biaphra](https://github.com/biaphra/ProjetoRansomware)
